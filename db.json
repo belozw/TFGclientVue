@@ -1,5 +1,17 @@
-{signal: [
-  {name: 'clk', wave: '00x11d354...', data: ['head', 'body', 'tail']},
-  {name: 'clk', wave: 'P...........'},
-  {name: 'vlad', wave: '0.1..0|1.0'},
-]}
+{
+  "signal": [
+    {
+      "name": 'clk',
+      "wave": '00x11d354...',
+      "data: ['head', 'body', 'tail']
+    },
+    {
+      "name": 'clk', 
+      "wave": 'P...........'
+    },
+    {
+      "name": 'vlad', 
+      "wave": '0.1..0|1.0'
+    },
+  ]
+}
